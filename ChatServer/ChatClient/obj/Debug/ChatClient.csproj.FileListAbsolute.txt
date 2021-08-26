@@ -1,0 +1,7 @@
+C:\Users\fgoos\source\repos\ChatServer\ChatClient\bin\Debug\ChatClient.exe.config
+C:\Users\fgoos\source\repos\ChatServer\ChatClient\bin\Debug\ChatClient.exe
+C:\Users\fgoos\source\repos\ChatServer\ChatClient\bin\Debug\ChatClient.pdb
+C:\Users\fgoos\source\repos\ChatServer\ChatClient\obj\Debug\ChatClient.csprojAssemblyReference.cache
+C:\Users\fgoos\source\repos\ChatServer\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+C:\Users\fgoos\source\repos\ChatServer\ChatClient\obj\Debug\ChatClient.exe
+C:\Users\fgoos\source\repos\ChatServer\ChatClient\obj\Debug\ChatClient.pdb
